@@ -1,0 +1,207 @@
+fileFormatVersion: 2
+guid: ab886cbbfcf9448d185ad3d51503c480
+ModelImporter:
+  serializedVersion: 21202
+  internalIDToNameTable:
+  - first:
+      74: -3100369314251171874
+    second: Idle
+  - first:
+      74: 4148467014030207159
+    second: NoHands.001
+  - first:
+      74: -6174976507070958088
+    second: HandsAction.001
+  - first:
+      74: -4748688346363275364
+    second: HandsAction.004
+  - first:
+      74: -6428129385437721850
+    second: HandsAction
+  - first:
+      74: -2510272969333718644
+    second: Knifemodel|KnifemodelAction
+  - first:
+      74: -8325733381008586006
+    second: Knife|KnifeAction
+  - first:
+      74: -122120224761174142
+    second: Knife|KnifeAction.001
+  - first:
+      74: -7838724871745956346
+    second: Knife|KnifeAction.002
+  - first:
+      74: 7993652958295131923
+    second: Knife|KnifeAction.003
+  - first:
+      74: 1637417866291357958
+    second: Knife|KnifeAction.004
+  - first:
+      74: 2595580239828925127
+    second: Knife|KnifeAction.005
+  - first:
+      74: -2604769505072169531
+    second: Knife|KnifeAction.006
+  - first:
+      74: 923424782092073864
+    second: Knife|KnifeAction.007
+  - first:
+      74: -9150547117943865461
+    second: Knife|KnifeAction.008
+  - first:
+      74: -78634011178157339
+    second: Knife|KnifemodelAction
+  - first:
+      74: -7287488749248670229
+    second: Hands|HandsAction
+  - first:
+      74: 8362911641113198824
+    second: Hands|HandsAction.001
+  - first:
+      74: 1371506046730976897
+    second: Hands|HandsAction.002
+  - first:
+      74: 8854765824340126791
+    second: Hands|HandsAction.003
+  - first:
+      74: -3079520773219626582
+    second: Hands|HandsAction.004
+  - first:
+      74: -4654765126102545589
+    second: Hands|Idle
+  - first:
+      74: 3701635850726437826
+    second: Hands|KnifemodelAction
+  - first:
+      74: -3083257938198211265
+    second: Hands|NoHands.001
+  - first:
+      74: 4347444056021336691
+    second: Knife.002|KnifeAction
+  - first:
+      74: -1336041028170560692
+    second: Knife.002|KnifeAction.001
+  - first:
+      74: 6569681324927232273
+    second: Knife.002|KnifeAction.002
+  - first:
+      74: -1776194498188569469
+    second: Knife.002|KnifeAction.003
+  - first:
+      74: 4694318555253303807
+    second: Knife.002|KnifeAction.004
+  - first:
+      74: 4757402967000789266
+    second: Knife.002|KnifeAction.005
+  - first:
+      74: 16528396748668642
+    second: Knife.002|KnifeAction.006
+  - first:
+      74: 7280812947770039654
+    second: Knife.002|KnifeAction.007
+  - first:
+      74: -4303353097994245505
+    second: Knife.002|KnifeAction.008
+  - first:
+      74: -5613205959059465991
+    second: Knife.002|KnifemodelAction
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
